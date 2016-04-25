@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingService", "ImageProcessingService\ImageProcessingService.csproj", "{3A6B0378-D4BF-4213-91E4-F1365A67F1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedProject", "SharedProject\SharedProject.csproj", "{492B2E5D-F647-4BE7-9A14-7AA7571B54CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{79E51077-848C-493B-9B35-BEE6B5C3A157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6B0378-D4BF-4213-91E4-F1365A67F1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6B0378-D4BF-4213-91E4-F1365A67F1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6B0378-D4BF-4213-91E4-F1365A67F1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6B0378-D4BF-4213-91E4-F1365A67F1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492B2E5D-F647-4BE7-9A14-7AA7571B54CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492B2E5D-F647-4BE7-9A14-7AA7571B54CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492B2E5D-F647-4BE7-9A14-7AA7571B54CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492B2E5D-F647-4BE7-9A14-7AA7571B54CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E51077-848C-493B-9B35-BEE6B5C3A157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E51077-848C-493B-9B35-BEE6B5C3A157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E51077-848C-493B-9B35-BEE6B5C3A157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E51077-848C-493B-9B35-BEE6B5C3A157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
